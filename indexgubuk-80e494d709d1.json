@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "indexgubuk",
+  "private_key_id": "80e494d709d1df3f48212a5136e29f96cea5aebc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo35mpvqhxulmV\nH/SZ3AyNFSCJQrBfndlw3UDemvdZS60dMlZC4RNhqUHsePAX1HwLe5DETCLL4Gy+\nPrAtlasoSRgOl9TU18pfO5RvNAXVCOcX/4LILkpN7Jo+BvO9J/4JMENHkSbDsGme\nuGN8jhrwlTBJ0hq2id6C+6AcIL2fv8gz5ImoY5baS5Glmh9HYAInNbNr1MFuYO+n\n50/q0DWQf+2fN09UKhAuo0sD9F+IGh2nu2Jqr4cTmtOUpRwD2CNaNs3RMP0LhaEO\nEeLy3djnrwR5FRuXOml84tVkmyXBj/9fQ/MjzhFktWKVpKQe2EmExvPX4b4kjprX\nas7H6AcLAgMBAAECggEAI03jrRX71xLTSZbNpyDWyuPg0nFLuCGi5LKMrj0NevCU\nN2dfm0m8qI0fCBXcc87rQ+dIQ5F7MM4xTbCDWnRQvPJTAjIBv6GBYFlvVbQ1h+z9\niwnSyJDM3e+Z61++swvaUwdw+VRCG2UVH6aCvfZjcWpvFu/Cv+igyRdbyKWbnvq9\nEGz7z+/BG39kIMGmrAwOPxG+Loy0hdu5YGLrDXiICaK9ka31ODsiq9rkZIkCWY7/\nSPmJE/XoKYycAJ1rCrtFImGg7OW57a9/QDkCPoVFU8rYxipHomPWjB9xPTdA5LQQ\ncMXlFucw0GibfkTGx3kr/kcp0i5+njntT0E/9YzveQKBgQDaYU/RWV00+L/vny4L\nVo3HN03JFb5cd8qgfJlqijHyKRkwmOTbiWzpgcy0OblKax4ff2Ut0ZKi9xp08EQB\nIts/5phoCac9t4Y2yBh1n54MiumpcX+BKLghxFLPi5b1o3DiM1uzzSkG0txeMDdF\n+8pt6wh54EvX5CpPiKeCc+NWfwKBgQDF9wPtX/rouWuAigq0HLeBaerrPxHon896\n8gx0KL1mu9LATiyBZBP/7FGMgV8STMYD80tGHXndOhCkplVXCn/j0Cs4DEktEyKL\nLrT53LQTkaB63kV30KHqJfsUbaA0J4VRIwtb0VxrO8cedrlp8Oe2pwHe28IOJhLM\nxWHMCtUBdQKBgQDQGNkJooGqP7wO6H3k+gbCptWt39V1ogVppzI+jxAHNdi2MYws\nE6nAXhsmRrdlzet3kltlLQbx2kzQ0D/NYVzSaLgks8Y1jpQL0eNU+tSOGTWObQRW\nnOnR65YKBnfE/YlNVCl3jfIheX/bFVEmlEiTM9vw36cGRHt5LLyLGEmzmwKBgHFd\nhXg4EJ2ZIUDYzExcbZHEr+zLj1vhuJU1a4BRnDTqtkO+AKqQPwu9ru2BYIpAQN0e\nRCsA0jqn98PyJMjVkGtLWJSeJIGVhaCivKyhgNX7/SSfiLSWW0KVQXVvWeDECQpv\nwR9xgzU9ZEfDwWYzuN3WQbH3sucbUoTFO733LgfJAoGAFYFMqjEeCeLRbizdZPIi\njsmwAtn50eeWbLIn7PPJpRxV82JXhlRJCgcgcuWkeWmZ+Hr4piSQHu+nNchrtC7l\nxyb3oNfQb53kMZ26nQ/NDkc8A4UNlKsrMOPp+7bMcySf9ultMgdUpviQr72C/V+C\nnVgqetzXxMHDJHPxbgkOKnM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gubukkilatindexing@indexgubuk.iam.gserviceaccount.com",
+  "client_id": "114760184511917506591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gubukkilatindexing%40indexgubuk.iam.gserviceaccount.com"
+}

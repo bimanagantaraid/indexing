@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "azbrowindexing",
+  "private_key_id": "4c4915903ac5aa8b2ecd02181efda7a581dbfd7c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDquLSR2gewQ2nw\nATmSXV42WdtXkfrWBh9FuYJ1Ibm222Q2JpV3l7EyxXFX2rIxT1A8XBVzxXmSpuYE\nQmFi1Aq/ngpQS8vCpqnlXlwGpgx+MSV/nzvV6akAvIPWtYEEdGNKuodOVZrzkqdV\n0Z6hWlcOw/utPRed+R4H2wDLxKzdu144N9ptqj2KauGfsO6FDQUVF955QLpXo80i\nTlyVJkIk98s0K2zXbD2rB2OYWbrMG3wc9/oJj15TZi6Ogs8ao5sAPHDk1UpszPsR\naVEmnesYTZT8+lmjqTN9d8/ZAV2WSKdaXiLq54y301ZM6fgT6SGw/mO7djlQmgdn\nqtFXnhXvAgMBAAECggEAag8t4F2hbb74Zm9XQVCZGnv9xZL7waugg9PwI9cqYHq/\nzEwg65oKgoN+1JDIRcmt2qhNNTO83Ew30SLheFORy8WwqVmmZ30BddfuQz7SlE7G\nv+UGl4DuUZvdAq6e7pFcsE6ahwXdb0QMApYmVIhKoCxkU4IwYrxHGouVz30+Ey4S\nM/Ibh94Pbq9GJ7tJReGVfnBJx/1M6w6J5gR1muQE+DhgLKoe16HzA3yYVn86snCO\nL9G4oRNq0vhjGx5OHJ+giHUGu1nBn0+lfeI23R5D9DiwsatuSaH0QuSF9wg8hrw1\n0olLUjI+bzmgao4hlZ1mnKX94NkoSl3TRz0ZkUGF4QKBgQD5dop8h+VM7Q2ai1LM\nf/dO4Ddpx6alMSCbIgHhYlyT5lgR0FcyihWr8w3buXe4bOGRadGfcg/KpEkgiqLS\nKTJB1eDMRlixPA7pV9z0IIcODdTJZ1I5NMX8QaiA4yToE1p3ySMHTJZ02rMeLRBB\n9Ume2nuQGOWE/iQT2IIcBC+nPwKBgQDw30ZF1tE2hx+qzEHWl5K0VJaF7d+Cnfr6\nkMkkrXzJMEU+ZjiZRs3wvTVPuLX/JEQjY7aLzwYZrQc8Bv4AQTYI3NofzhKI8jZA\nbahdwXchw2WfJ9TbA7KtAy3iZL83ocBoEEiEbKN5I+aWTMOsqhLFXBGb8j6aX9eL\n1D7S0a4VUQKBgQDXYFb0aUe5gLjMAxm7YYgdW0u8Uhk4ag/ioBvLgWa4cpj62EtQ\nYROQ30nJuHj6i1a8ewX2iT3FEM3qAIfOtq6jVIq/EsUkT9v37lnfk+3GXn6mXEQL\nC9sbjXxzuqh0jbD/1nIdrSwBO4iFtxZgO+wR8EPaBwSyK9DuKXE7ywlxdQKBgQDt\n0WSOm9QgZDUt61Gt0CV2inW7cerWCai9L6qI3glwkoorW73SCAhZAlbaiWKXsHTe\nBBs92n8JZr7X04eBNOFmyrdJ46qFL6/E2P/84YEAAu4Yv7j3LKWDELqC5jmtcbSI\nilsu9BxLBNkr2Erx9VFnLsnsELcisDIeysXkXEXmoQKBgQDIotxswP6FrT14Zx7I\ncqqWsQs7tDOtXs5VHcDHyBC6lAHlCyGb0+ndf07Aufvym0tXw+LZ2VqCFfLI2kEI\nRD6G1XZkrMuMTXASYg/laBFZH6Xg/bNYPRhblYLkb4r23mf5/LIP01Y8FO6f7BE9\njiZneuMNT5ksm2QdncUq+lVYhg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "azbrowindexing@azbrowindexing.iam.gserviceaccount.com",
+  "client_id": "111247633920733572021",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/azbrowindexing%40azbrowindexing.iam.gserviceaccount.com"
+}

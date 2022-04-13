@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "justix",
+  "private_key_id": "eb7bb10c80abab02846a299fa04fee3a14e3d55e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4Z2tFaOIGUV/n\nYS6SA5VTpGP+OA4Ek6qs8IaAEC0YLfan+mufhM+aIMhtsW34Xcv+Q3gJ3JJq+OA1\nkNZt75BwmWHE+ltdmH/exKwGD0sXn+52w2PUlI+N2FNGLFUv2FrfWXWUv1K9Ew5t\nmG+m6e9ASNkqp0jjWT18ulQFFrDJ38+Qd/+rXn668vNdkwmPz5N5OKOPe+fsl4GQ\neCVhTX7wHK2dHLXNH3VztVWs8Jg3scDK9zgYCtuVVE/Ivt6C8SdHUgsU+BWN5mbh\nqKMBC8+Ek/6sr8xlAdEso1L41taY3LVpeXkysPwtH/hbgpgzV9bcrwQAEmJ0P6Tg\nKkvhJN5BAgMBAAECggEAEWNKD4VOY71eU0tb+G9vUA/dEGJxeu/AHRbAffiYgfJK\nkugHaCceKri64XIErjHM+4yZ1+c1JLJTNOXTfFIFrwJdgFUBkrufmg42MMuWH3QI\niKkPo6K+/wdmAcTKIwzt86fEMSqRtwuiFYY1R/pAwbFkzdNwiWR3qmhI5iJvuNcx\naUqU5IrGreN14fjvtFaP8lFdvIo+C488ITj/uUpfytwx1/e1mvPbLff0zyq/3hy+\nn40mRklmubcCJP166MfVTXZGIan0FpsRSSJ7AFHn6ivRjufu+Bs9l7L5LO/gs/S2\ndrUzw71e5LFbaN3ztpF/yx1hOB60UeJy3yds47KVGQKBgQDb5v4APFqR+v50v4CM\noNR31rPY9HXcq1N1QqtubcrqQJwS33FXTtAeK8VUpSQZtrHhqbnaS+y0EaWkB/Lz\noLcsQ56IlNwzjH7UKe38KOkEYW4z4ILeK+IzUfOoxnaU8z6FvqNtrXocnY6RVTqi\nl23vPPSjkVTcTEbwGqEudHNFSQKBgQDWrKv/QKGkRxu4KrJYbOlVpa9sFFYyCc9g\nzNQd3lJSGoCUmmHZg07/tnUrEWrsTNQdkWaiZaMQwuJchmqUcRdUOspBEzibWFON\nl9h5IMqaNZ6NGV0cCgX10MMGyzd7WGmvyYFqxHOQDj1eqvZR7/ramytL69tJSWBB\nqfgyvRPpOQKBgHRWkKqvQ3tXvqclaWz86Ws9O4jcTD6ipVS0IN4bV+72n5uceuol\n2BUeMxfFBoRUE2e/04OaB3B8pZVSX0ZlEINqgsTffGAJRFAanr15J04Z/aOUc6f2\nr4VXJgF0fefviHRZlzy/OotJD9Pzs0Gxu4eGSCcBDFRARodgj0V0dkeBAoGAMdoJ\nWw40O0T0D/GCVvx7txLxyMR0O8yBZvZJ7+G39i8HWvr67BsNFl7VmLnDvbodq/we\n/Glj07md/WSNjYkxpLK+UxxWkeSSCpiPgZl20xbOie+w6pj9R1dCYuqAKNmgOV0u\n+49BUturrrc+2kpDU86i4E+WLc+nVbhV1dqIrCkCgYBFFlJLgWC+CfjrpnY5TWbG\nCeBW1r/fMrDfyI4OrZM4R2bP2HWsq4wVBcw+g3TnZHXb/Z9lsGK0CG1+n2I8Z0BX\nWW/IR6GzFMS/Bx75xPnMdpgbvAMuRzJBRpwjQ/TkCAmn6akNRcTRg72a6PHFf8cU\nPvEu2uy6HsQ7ECW70OPPnA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "justix@justix.iam.gserviceaccount.com",
+  "client_id": "117568580471084601936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/justix%40justix.iam.gserviceaccount.com"
+}

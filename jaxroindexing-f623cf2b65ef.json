@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jaxroindexing",
+  "private_key_id": "f623cf2b65ef6de2c2a1578c227ea67f5557c27a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKiqHzdFeyiVNX\nN83uuWW8hLT0EFEzAaJkO8E7gSV8h93IYXgZvC3BoeDbcAzZzGdfX3WpRbiOiCRD\n4iTHK9OxtXgYlpNqW24k7cRrKxahMoZ2M4cC0iq/xgWZPQP4j9MOMu3poBwxlT3b\n0Mm6vDtOeISxfk9Y/aWB6l+F5l/BXrIuz0iOi6XupL5txyxDjCtyiaAUCuHJTz/h\nwajIBxrf+mKbfZTfOxLH9cmku6NlJCSC1ynob9iiidyDxPbHPuwvTejqvvMGVMOn\nGsRYUb4znBw0yRgSFqQZnmemB0497TibVZxAuYroYqepOG04vIpSGnfvv8WLDdS8\njjQjD5vhAgMBAAECggEAMLDRLCC88Gu5AE+nDwu83GwewEmn65Yp/uSqmG58n4pe\nE8zyvWUSrukGkFpIjJdqBnCBbbcYHhO2fCdCZiswEhmpDGguejQOr4wFWyoZn5jw\n4DuU6mWx5zZopCUZ7khNGa2+qhpWjMju/QgdZunXbA7m/3B5DNC1WB0K57qxLF/0\n/8prPidw+I7FPwWbq8Cmp91mJ+nYOhS1pDoHqr01kaHntVcLSkMEriczKAkB2yry\nq88nnn7x8lBjc7PE9nkBxyUcyEQItXBWfPGYu3JIwENe5t5QY/kkGE62+q7ngjM+\n9nWy1KGtbt7+TSrzPAyWGyEgQX91E3oprNXfZrW4EQKBgQDn3MUhy2Hzf2dC3aFS\nVrkNIC3uzZXVaPWoupnr1XPyAuy56TY4njbW3GuZJECwVnMofY9bQ0irQqHD/rEK\nweJ6GrD7C7bcOUr0i7rxumx3gt2fmwure7x+SvZpgadpc9MlA9r4uG2mqlED+n3t\nmpFX9IgDDfJsh/YDrfnIReJ+XQKBgQDfoHMaGGB0Fn5NZ1EkoZqMuVedGvmzi5r2\nwxFhpjUbRAv+/WapXah+hWsAwlFasIALsDyvob90MvDTP+tWftZ0ML3RZawWtkXh\nzgMpOOSKrsrRH3r6hBiZUBCZEWoDe1TlAttQgwoyU0htdSemxwmTT38yCmFMz28m\nySPDtjnTVQKBgCXdsTgergWFRgjuhx0aWqhhG/9HBfRPauc+akrQllnszlpiUt+W\nPyCB6PSerg3eYHo5X0MpTuHhROfsXV+DYIhOeZ7WP+vhU3Nyqno11ucBsU4SlSpR\nT+xUM7/xU7TuHIqMAaPjAs1YPVjn/M7kEl6J6fiNu4yr+6qILCXf++hlAoGAYhIW\niFoqap62szFdJ4hro81ge/ipizDtO8yeYcmnPpbf/+qXTC1TyHCwVXvie7gt33Jh\nmtB/ivEQJkTA64TifcAmbp99EdTL3tQfFMPrjlpLfdylbRnjQ9EWBlrZuD8tIuXW\n0n81SI63k7EuO3jMXTse2A4vT6Uk5MiPE7RltaUCgYEApVFmdOBRcIrLIglWUmrO\nRy4++fldrNq0VlVfe5PnmfmcrpIoafuQakTllWEGvwV82Kgz4itwSMhmuG17FxJ9\nYa3rwrt4ZHtY9g22F35vTfad5jr6pVaVfJ1/ZgfR/JRx5FmP9hYFjZjUVGIm40/W\ngKb8GDkGIU4AFUxWTLcYjPE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jaxroindexing@jaxroindexing.iam.gserviceaccount.com",
+  "client_id": "102721682306500861787",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jaxroindexing%40jaxroindexing.iam.gserviceaccount.com"
+}
